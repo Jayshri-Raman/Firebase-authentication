@@ -8,7 +8,10 @@ Firebase Authentication also handles sending password reset emails.
 Application has been bulid using HTML , CSS , Javascript.
 
 
-https://github.com/Jayshri-Raman/Firebase-authentication/assets/138697903/739cede1-6f37-4ac8-acfb-0d3bc2890c75
+
+https://github.com/Jayshri-Raman/Firebase-authentication/assets/138697903/b22b6e9b-14f7-4ab6-aabd-0b7bf140056b
+
+
 
 
 
