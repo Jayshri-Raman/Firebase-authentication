@@ -4,12 +4,12 @@
 }
 
 .container{
-	width: 80%;
+	width: 50%;
 	padding: 16px;
-	background-color: lightgrey;
+	background: rgba(228, 192, 192, 0.555);
+    backdrop-filter: saturate(180%) blur(10px);
 	margin: auto;
-
-
+	margin-top: 80px;
 }
 input[type=text],input[type=password]
 {
@@ -44,13 +44,13 @@ hr{
 	background-color: darkgreen;
 }
 a{
-	color: dodgerblue;
+	color: rgb(64, 30, 255);
 }
 .details{
 	font-size: 20px;
 }
 body{
-	background-color: darkblue;
+	background-image: url(123.gif);
 }
 
 h4{
